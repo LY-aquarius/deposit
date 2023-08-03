@@ -1,0 +1,4 @@
+﻿  test.c
+D:\Ccode\LOW\test_8_3\test_8_3\test.c(112,2): warning C4013: “gets”未定义；假设外部返回 int
+D:\Ccode\LOW\test_8_3\test_8_3\test.c(114,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  test_8_3.vcxproj -> D:\Ccode\LOW\test_8_3\x64\Debug\test_8_3.exe
